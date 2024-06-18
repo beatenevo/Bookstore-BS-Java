@@ -1,5 +1,5 @@
 灵动书城 毕设级别项目开源供大家学习交流  
-writer:Beaten_LCU 
+writer:Beaten_LCU  
 2024-06-18  
 该部分为说明文档  
 技术栈 springMvc+spring+myBatis+maven  
