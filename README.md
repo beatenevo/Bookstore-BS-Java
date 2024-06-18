@@ -1,6 +1,8 @@
-2024-6-18  
-writer:Beaten_LCU  
-该部分为说明文档
+灵动书城 毕设级别项目开源供大家学习交流  
+writer:Beaten_LCU 
+2024-06-18  
+该部分为说明文档  
+技术栈 springMvc+spring+myBatis+maven  
 java 保存后端中需要的文件  
 bean 封装实体类 每一个实体类对应着数据库中的每一张表 属性就是数据库中的字段  
 config 保存配置文件  jdbc 它主要是对数据库连接的配置  
