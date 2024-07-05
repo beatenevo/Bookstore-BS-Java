@@ -21,4 +21,5 @@ admin下面的css,img，js是后台页面的静态资源，下面的jsp就是后
 下面的css，js和images，是前台需要的静态资源。下面的jsp就是前台页面  
 error是错误页面  
 fonts是字体央视  
-layer是layui下的一个web弹层组件，webxml是配置filter和servlet和欢迎界面等等
+layer是layui下的一个web弹层组件，webxml是配置filter和servlet和欢迎界面等等  
+嘶。。。数据库似乎没传，等我等我
